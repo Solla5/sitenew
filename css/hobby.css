@@ -293,6 +293,7 @@ td{
 }
 
 .footer_link a img{
+	padding:40px;
     width: 25px;
     height: 25px;
     margin-left: 10px;
